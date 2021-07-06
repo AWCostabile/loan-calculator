@@ -1,0 +1,12 @@
+.field-label {
+  width: 100%;
+  text-align: right;
+}
+
+.field-label label {
+  padding: 24px;
+}
+
+.numberField input {
+  text-align: right;
+}
